@@ -5,7 +5,7 @@ using SQLite;
 
 namespace People.Model
 {
-    [Table("T_People)" ]
+    [Table("T_People") ]
     public class Person
 
 
