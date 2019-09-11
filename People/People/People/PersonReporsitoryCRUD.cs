@@ -52,6 +52,11 @@ namespace People
                 }
             }
 
+            public List<Person> GetAllPeople()
+
+            {
+                return conn.Table<Person>().ToList();
+            }
         }
 
         class Car

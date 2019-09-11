@@ -5,7 +5,7 @@
              x:Class="People.MainPage">
 
 
-    <Grid Padding="5" RowSpacing="1" ColumnSpacing="1" BackgroundColor="#11151B">
+    <Grid Padding="5" RowSpacing="1" ColumnSpacing="1" BackgroundColor="Aquamarine">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="Auto"></RowDefinition>
